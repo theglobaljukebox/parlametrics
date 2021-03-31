@@ -1,5 +1,7 @@
 # Parlametrics Data
 
+Parlametrics is a database codings features of conversational style. 
+
 This repository is for pulling, formatting, validating and cleaning the Parlametrics dataset.
 
 Data is presented in three data tables within raw/
