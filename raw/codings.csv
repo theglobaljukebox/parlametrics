@@ -1,0 +1,520 @@
+SORT,VarID,VarTitle,VarDefinition,VarCategory,VarType,Source,UserNotes,VarID_OrignalCode,VarID_Code,Count,OriginalCode_1,OriginalCode_2,OriginalCode_3,OriginalCode_4,OriginalCode_5,CodeDescription,DoubleCoding_notes,ShortName
+1,V1,Overall pattern of interaction,"The manner in which speaking time is divided between two people in a conversation, considering the entire recorded conversation as a whole. The two speakers are referred to as A and B.",Speaker Role/Relationship,Categorical,Lomax & Markel (1971-72); Wood (2021),,1_NA,1_NA,8,NA,,,,,Missing data,,Missing data
+2,,,,,,,,1_1,1_2,27,1,,,,,Only speaker A is heard.,,A
+3,,,,,,,,1_2,1_4,2,2,,,,,Predominance of A with B's contribution confined to some interjections.,,Ab
+4,,,,,,,,1_3,1_8,21,3,,,,,A's stretches are far longer and far more frequent than B's.,,A >> B
+5,,,,,,,,1_4,1_16,42,4,,,,,A's stretches are longer and more frequent than B's.,,A > B
+6,,,,,,,,1_5,1_32,71,5,,,,,A and B more or less share the total air time.  It is hard to tell which is dominant.,,A = B
+7,,,,,,,,1_5_4,1_48,7,5,4,,,,The following two points are double coded: 1) A's stretches are longer and more frequent than B's; and 2) A and B more or less share the total air time.,,A > B and A = B
+8,V2,Pattern of interaction in stretches,"The predominant pattern of turn-taking in stretches of conversation, regardless of which speaker assumes the leading role in each individual stretch.",Speaker Role/Relationship,Categorical,Lomax & Markel (1971-72); Wood (2021),,2_NA,2_NA,32,NA,,,,,Missing data,,Missing data
+9,,,,,,,,2_1,2_2,41,1,,,,,"One speaker's contributions are longer, more frequent, while the other speaker's are shorter, less frequent.",,"A longer, more frequent / B shorter, less frequent"
+10,,,,,,,,2_2,2_4,24,2,,,,,"One speaker's contributions are longer, while the other speaker's are shorter and frequent.",,A longer / B short and frequent
+11,,,,,,,,2_2_1,2_6,8,2,1,,,,"The following two points are double coded: 1) One speaker's contributions are longer, more frequent, while the other speaker's are shorter, less frequent; and 2) One speaker's contributions are longer, while the other speaker's are shorter and frequent.",,"A longer / B short and frequent and A longer, more frequent / B shorter, less frequent"
+12,,,,,,,,2_3,2_8,3,3,,,,,"Rapid exchanges of less than 2 seconds in duration, where one speaker speaks more than the other.",,A > B rapid
+13,,,,,,,,2_3_1,2_10,2,3,1,,,,"The following two points are double coded: 1) Rapid exchanges of less than 2 seconds in duration, where one speaker speaks more than the other; and 2) One speaker's contributions are longer, more frequent, while the other speaker's are shorter, less frequent.",,"A > B rapid and A longer, more frequent / B shorter, less frequent"
+14,,,,,,,,2_3_2,2_12,1,3,2,,,,"The following two points are double coded: 1) Rapid exchanges of less than 2 seconds in duration, where one speaker speaks more than the other; and 2) One speaker's contributions are longer, while the other speaker's are shorter and frequent.",,A > B rapid and A longer / B short and frequent
+15,,,,,,,,2_4,2_16,15,4,,,,,Both speakers speak the same amount.,,A = B moderate
+16,,,,,,,,2_4_1,2_18,9,4,1,,,,"The following two points are double coded: 1) Both speakers speak the same amount; and 2) One speaker's contributions are longer, more frequent, while the other speaker's are shorter, less frequent.",,"A = B moderate and A longer, more frequent / B shorter, less frequent"
+17,,,,,,,,2_4_2,2_20,33,4,2,,,,"The following two points are double coded: 1) Both speakers speak the same amount; and 2) One speaker's contributions are longer, while the other speaker's are shorter and frequent.",,A = B moderate and A longer / B short and frequent
+18,,,,,,,,2_4_2_1,2_22,5,4,2,1,,,"The following three points are triple coded: 1) Both speakers speak the same amount; 2) One speaker's contributions are longer, while the other speaker's are shorter and frequent; and 3) One speaker's contributions are longer, more frequent, while the other speaker's are shorter, less frequent.",,"A = B moderate and A longer / B short and frequent and A longer, more frequent / B shorter, less frequent"
+19,,,,,,,,2_4_3,2_24,4,4,3,,,,"The following two points are double coded: 1) Both speakers speak the same amount; and 2) Rapid exchanges of less than 2 seconds in duration, where one speaker speaks more than the other.",,A = B moderate and A > B rapid
+20,,,,,,,,2_5,2_32,1,5,,,,,"Rapid exchanges of less than 2 seconds in duration, where both speakers speak the same amount.",,A = B rapid
+21,,,,,,,,2_5_1,2_34,1,5,1,,,,"The following two points are double coded: 1) Rapid exchanges of less than 2 seconds in duration, where both speakers speak the same amount; and 2) One speaker's contributions are longer, more frequent, while the other speaker's are shorter, less frequent.",,"A = B rapid and A longer, more frequent / B shorter, less frequent"
+22,,,,,,,,2_5_2,2_36,1,5,2,,,,"The following two points are double coded: 1) Rapid exchanges of less than 2 seconds in duration, where both speakers speak the same amount; and 2) One speaker's contributions are longer, while the other speaker's are shorter and frequent.",,A = B rapid and A longer / B short and frequent
+23,,,,,,,,2_5_3,2_40,4,5,3,,,,"The following two points are double coded: 1) Rapid exchanges of less than 2 seconds in duration, where both speakers speak the same amount; and 2) Rapid exchanges of less than 2 seconds in duration, where one speaker speaks more than the other.",,A = B rapid and A > B rapid
+24,,,,,,,,2_5_4,2_48,1,5,4,,,,"The following two points are double coded: 1) Rapid exchanges of less than 2 seconds in duration, where both speakers speak the same amount; and 2) Moderate tempo exchanges where both speakers speak the same amount.",,A = B rapid and A = B moderate
+25,,,,,,,,2_5_4_2_1,2_54,1,5,4,2,1,,"The following four points are quadruple coded: 1) Rapid exchanges of less than 2 seconds in duration, where both speakers speak the same amount; 2) Moderate tempo exchanges where both speakers speak the same amount; 3) One speaker's contributions are longer, more frequent, while the other speaker's are shorter, less frequent; and 4) One speaker's contributions are longer, while the other speaker's are shorter and frequent.",,"A = B rapid and A = B moderate and A longer / B short and frequent and A longer, more frequent / B shorter, less frequent"
+26,,,,,,,,2_5_4_3,2_56,2,5,4,3,,,"The following three points are triple coded: 1) Rapid exchanges of less than 2 seconds in duration, where both speakers speak the same amount; 2) Moderate tempo exchanges where both speakers speak the same amount; 3) Rapid exchanges of less than 2 seconds in duration, where one speaker speaks more than the other.",,A = B rapid and A = B moderate and A > B rapid
+27,V3,Speaker Similarity,The overall similarity of the speaking style of the actors in terms of voice qualities and dynamics.,Speaker Role/Relationship,Ordinal,Lomax & Markel (1971-72); Wood (2021),,3_NA,3_NA,32,NA,,,,,Missing data,,Missing data
+28,,,,,,,,3_1,3_2,29,1,,,,,The speakers' voices sound very similar. One speaker might be mistaken for another.,,Very similar
+29,,,,,,,,3_2,3_4,75,2,,,,,The speakers' voices sound rather similar.,,Rather similar
+30,,,,,,,,3_2_1,3_6,8,2,1,,,,The following two points are double coded: 1) Very similar and 2) Rather similar,,Very similar and Rather similar
+31,,,,,,,,3_3,3_8,33,3,,,,,The speakers' voices sound rather different.,,Rather different
+32,,,,,,,,3_3_2,3_12,6,3,2,,,,The following two points are double coded: 1) Rather different and 2) Rather similar,,Rather different and Rather similar
+33,,,,,,,,3_4,3_16,3,4,,,,,The speakers' voices sound very different.,,Very different
+34,,,,,,,,3_4_3,3_24,2,4,3,,,,The following two points are double coded: 1) Very different and 2) Rather different,,Very different and Rather different
+35,V4,Principle Type of Relationship,The manner in which transitions between speakers occur.,Speaker Role/Relationship,Categorical,Lomax & Markel (1971-72); Wood (2021),,4_NA,4_NA,31,NA,,,,,Missing data,,Missing data
+36,,,,,,,,4_1,4_2,3,1,,,,,Interlocking of very brief speech bursts between two or more speakers that establishes some sort of marked rhythmic pattern. Frequently there is overlap and supportive interjections as well. Includes overlap which does not turn into continual simultaneous activity where one speaker masks another.,,Interlock
+37,,,,,,,,4_2,4_4,9,2,,,,,Alternations between A and B in which the beginnings of A's speeches coincide with the end of B's.,,Overlap
+38,,,,,,,,4_2_1,4_6,2,2,1,,,,The following two points are double coded: 1) Alternations between A and B in which the beginnings of A's speeches coincide with the end of B's; and 2) Interlocking of very brief speech bursts between two or more speakers that establishes some sort of marked rhythmic pattern. Frequently there is overlap and supportive interjections as well. Includes overlap which does not turn into continual simultaneous activity where one speaker masks another.,,Overlap and Interlock
+39,,,,,,,,4_3,4_8,28,3,,,,,Dialogue in which alternations between participants leave no spaces between their speeches. Also includes cases of brief and unclear overlap,,Continuous
+40,,,,,,,,4_3_2,4_12,35,3,2,,,,The following two points are double coded: 1) Dialogue in which alternations between participants leave no spaces between their speeches. Also includes cases of brief and unclear overlap; and 2) Alternations between A and B in which the beginnings of A's speeches coincide with the end of B's,,Continuous and Overlap
+41,,,,,,,,4_4,4_16,24,4,,,,,Dialogue in which marked and clearly perceptible spaces regularly occur between speakers.,,Spaced
+42,,,,,,,,4_4_1,4_18,1,4,1,,,,The following two points are double coded: 1) Dialogue in which marked and clearly perceptible spaces regularly occur between speakers; and 2) Interlocking of very brief speech bursts between two or more speakers that establishes some sort of marked rhythmic pattern. Frequently there is overlap and supportive interjections as well. Includes overlap which does not turn into continual simultaneous activity where one speaker masks another.,,Spaced and Interlock
+43,,,,,,,,4_4_2,4_20,5,4,2,,,,The following two points are double coded: 1) Dialogue in which marked and clearly perceptible spaces regularly occur between speakers; and 2) Alternations between A and B in which the beginnings of A's speeches coincide with the end of B's.,,Spaced and Overlap
+44,,,,,,,,4_4_3,4_24,32,4,3,,,,The following two points are double coded: 1) Dialogue in which marked and clearly perceptible spaces regularly occur between speakers; and 2) Dialogue in which alternations between participants leave no spaces between their speeches. Also includes cases of brief and unclear overlap,,Spaced and Continuous
+45,,,,,,,,4_4_3_2,4_28,18,4,3,2,,,The following three points are triple coded: 1) Dialogue in which marked and clearly perceptible spaces regularly occur between speakers; 2) Dialogue in which alternations between participants leave no spaces between their speeches. Also includes cases of brief and unclear overlap; and 3) Alternations between A and B in which the beginnings of A's speeches coincide with the end of B's,,Spaced and Continuous and Overlap
+46,V5,Stability of Role Relation,"Whether the speakers maintain a fairly constant relationship to each other throughout the course of the conversation, or whether the relationship is changeful.",Speaker Role/Relationship,Categorical,Lomax & Markel (1971-72); Wood (2021),,5_NA,5_NA,30,NA,,,,,Missing data,,Missing data
+47,,,,,,,,5_1,5_2,83,1,,,,,The relationship between the speakers remains more or less the same throughout the conversation.,,More or less stable
+48,,,,,,,,5_2,5_4,7,2,,,,,The speakers alternate between two different relationships.,,Alternation between 2 relationships
+49,,,,,,,,5_2_1,5_6,2,2,1,,,,The following two points are double coded: 1) The speakers alternate between two different relationships; and 2) The relationship between the speakers remains more or less the same throughout the conversation.,,Alternation between 2 relationships and More or less stable
+50,,,,,,,,5_3,5_8,48,3,,,,,The relationship between the speakers is moderately changeful.,,Moderate changeful
+51,,,,,,,,5_3_1,5_10,2,3,1,,,,The following two points are double coded: 1) The relationship between the speakers is moderately changeful; and 2) The relationship between the speakers remains more or less the same throughout the conversation.,,Moderate changeful and More or less stable
+52,,,,,,,,5_3_2,5_12,1,3,2,,,,The following two points are double coded: 1) The relationship between the speakers is moderately changeful; and 2) The speakers alternate between two different relationships.,,Moderate changeful and Alternation between 2 relationships
+53,,,,,,,,5_4,5_16,10,4,,,,,The relationship between the speakers is flexible and changeful.,,Flexible & changeful
+54,,,,,,,,5_4_2,5_20,1,4,2,,,,The following two points are double coded: 1) The relationship between the speakers is flexible and changeful; and 2) The speakers alternate between two different relationships.,,Flexible & changeful and Alternation between 2 relationships
+55,,,,,,,,5_4_3,5_24,4,4,3,,,,The following two points are double coded: 1) The relationship between the speakers is flexible and changeful; and 2) The relationship between the speakers is moderately changeful.,,Flexible & changeful and Moderate changeful
+56,V6,Longest speech,"The length, in seconds, of the longest single stretch any one speaker continues, even in spite of interruptions or interjections, before another speaker takes over.",Speech Length/Timing,Ordinal,Lomax & Markel (1971-72); Wood (2021),,6_NA,6_NA,54,NA,,,,,Missing data,,Missing data
+57,,,,,,,,6_1,6_2,34,1,,,,,0-19 seconds,,0-19
+58,,,,,,,,6_2,6_4,33,2,,,,,20-29 seconds,,20-29
+59,,,,,,,,6_3,6_8,28,3,,,,,30-39 seconds,,30-39
+60,,,,,,,,6_4,6_16,20,4,,,,,40-59 seconds,,40-59
+61,,,,,,,,6_5,6_32,19,5,,,,,60 seconds or longer,,60 plus
+62,V7,Number of interventions in longest speech,"Count the number, if any, of utterances by the speaker who does not hold the floor during the longest speech measured in V6.",Speech Length/Timing,Ordinal,Lomax & Markel (1971-72); Wood (2021),,7_NA,7_NA,54,NA,,,,,Missing data,,Missing data
+63,,,,,,,,7_1,7_2,10,1,,,,,2-3 interventions,,2-3
+64,,,,,,,,7_2,7_4,22,2,,,,,4-5 interventions,,4-5
+65,,,,,,,,7_3,7_8,23,3,,,,,6-7 interventions,,6-7
+66,,,,,,,,7_4,7_16,23,4,,,,,8-12 interventions,,8-12
+67,,,,,,,,7_5,7_32,16,5,,,,,13-20 interventions,,13-20
+68,,,,,,,,7_6,7_64,14,6,,,,,21 interventions or more,,21 plus
+69,,,,,,,,7_7,7_128,26,7,,,,,No interventions,,None
+70,V8,Longest speech burst without pause/interruption,"The length, in seconds, of the longest single stretch of speech in the conversation by a single speaker, without any pauses or interruptions.",Speech Length/Timing,Ordinal,Lomax & Markel (1971-72); Wood (2021),,8_NA,8_NA,6,NA,,,,,Missing data,,Missing data
+71,,,,,,,,8_1,8_2,5,1,,,,,1-1.5 seconds,,1-1.5
+72,,,,,,,,8_2,8_4,28,2,,,,,2-2.5 seconds,,2-2.5
+73,,,,,,,,8_3,8_8,53,3,,,,,3-3.5 seconds,,3-3.5
+74,,,,,,,,8_4,8_16,48,4,,,,,4-4.5 seconds,,4-4.5
+75,,,,,,,,8_5,8_32,27,5,,,,,5-5.5 seconds,,5-5.5
+76,,,,,,,,8_6,8_64,11,6,,,,,6-6.5 seconds,,6-6.5
+77,,,,,,,,8_7,8_128,9,7,,,,,7-7.5 seconds,,7-7.5
+78,,,,,,,,8_8,8_256,1,8,,,,,8-8.5 seconds,,8-8.5
+79,,,,,,,,8_9,8_512,0,9,,,,,9 seconds or longer,,9 plus
+80,V9A,Dominant speech burst 1,"The most prominent length, in seconds, of speech bursts (stretches of speech by a single speaker without pause or interruption), measured across two separate minute-long segments of the conversation that are considered typical.",Speech Length/Timing,Ordinal,Lomax & Markel (1971-72); Wood (2021),"In V9A-C, if any of the three most common speech burst lengths fall under the same code, the appropriate code is still coded as usual on each line. All three variables might have the same code.",9A_NA,9A_NA,1,NA,,,,,Missing data,,Missing data
+81,,,,,,,,9A_1,9A_2,125,1,,,,,0.5-1.5 seconds,,0.5-1.5
+82,,,,,,,,9A_2,9A_4,37,2,,,,,2-2.5 seconds,,2-2.5
+83,,,,,,,,9A_3,9A_8,17,3,,,,,3-3.5 seconds,,3-3.5
+84,,,,,,,,9A_4,9A_16,5,4,,,,,4-4.5 seconds,,4-4.5
+85,,,,,,,,9A_5,9A_32,3,5,,,,,5-5.5 seconds,,5-5.5
+86,,,,,,,,9A_6,9A_64,0,6,,,,,6-6.5 seconds,,6-6.5
+87,,,,,,,,9A_7,9A_128,0,7,,,,,7-7.5 seconds,,7-7.5
+88,,,,,,,,9A_8,9A_256,0,8,,,,,8-8.5 seconds,,8-8.5
+89,,,,,,,,9A_9,9A_512,0,9,,,,,9 seconds or more,,9 plus
+90,V9B,Dominant speech burst 2,"The second most prominent length, in seconds, of speech bursts (stretches of speech by a single speaker without pause or interruption), measured across two separate minute-long segments of the conversation that are considered typical.",Speech Length/Timing,Ordinal,Lomax & Markel (1971-72); Wood (2021),"In V9A-C, if any of the three most common speech burst lengths fall under the same code, the appropriate code is still coded as usual on each line. All three variables might have the same code.",9B_NA,9B_NA,4,NA,,,,,Missing data,,Missing data
+91,,,,,,,,9B_1,9B_2,115,1,,,,,0.5-1.5 seconds,,0.5-1.5
+92,,,,,,,,9B_2,9B_4,51,2,,,,,2-2.5 seconds,,2-2.5
+93,,,,,,,,9B_3,9B_8,12,3,,,,,3-3.5 seconds,,3-3.5
+94,,,,,,,,9B_4,9B_16,4,4,,,,,4-4.5 seconds,,4-4.5
+95,,,,,,,,9B_5,9B_32,1,5,,,,,5-5.5 seconds,,5-5.5
+96,,,,,,,,9B_6,9B_64,0,6,,,,,6-6.5 seconds,,6-6.5
+97,,,,,,,,9B_7,9B_128,1,7,,,,,7-7.5 seconds,,7-7.5
+98,,,,,,,,9B_8,9B_256,0,8,,,,,8-8.5 seconds,,8-8.5
+99,,,,,,,,9B_9,9B_512,0,9,,,,,9 seconds or more,,9 plus
+100,V9C,Dominant speech burst 3,"The third most prominent length, in seconds, of speech bursts (stretches of speech by a single speaker without pause or interruption), measured across two separate minute-long segments of the conversation that are considered typical.",Speech Length/Timing,Ordinal,Lomax & Markel (1971-72); Wood (2021),"In V9A-C, if any of the three most common speech burst lengths fall under the same code, the appropriate code is still coded as usual on each line. All three variables might have the same code.",9C_NA,9C_NA,47,NA,,,,,Missing data,,Missing data
+101,,,,,,,,9C_1,9C_2,71,1,,,,,0.5-1.5 seconds,,0.5-1.5
+102,,,,,,,,9C_2,9C_4,45,2,,,,,2-2.5 seconds,,2-2.5
+103,,,,,,,,9C_3,9C_8,19,3,,,,,3-3.5 seconds,,3-3.5
+104,,,,,,,,9C_4,9C_16,1,4,,,,,4-4.5 seconds,,4-4.5
+105,,,,,,,,9C_5,9C_32,3,5,,,,,5-5.5 seconds,,5-5.5
+106,,,,,,,,9C_6,9C_64,0,6,,,,,6-6.5 seconds,,6-6.5
+107,,,,,,,,9C_7,9C_128,1,7,,,,,7-7.5 seconds,,7-7.5
+108,,,,,,,,9C_8,9C_256,0,8,,,,,8-8.5 seconds,,8-8.5
+109,,,,,,,,9C_9,9C_512,1,9,,,,,9 seconds or more,,9 plus
+110,V10,Stability of Timing,The degree to which the duration of speech bursts in interchange have regular patterning or are varied.,Speech Length/Timing,Ordinal,Lomax & Markel (1971-72); Wood (2021),,10_NA,10_NA,5,NA,,,,,Missing data,,Missing data
+111,,,,,,,,10_1,10_2,26,1,,,,,Speech burst durations are highly patterned.,,Highly patterned
+112,,,,,,,,10_2,10_4,74,2,,,,,"Speech burst durations are somewhat patterned, wtih considerable variation.",,Patterned w/ considerable variation
+113,,,,,,,,10_2_1,10_6,7,2,1,,,,"The following two points are double coded: 1) Speech burst durations are somewhat patterned, wtih considerable variation; and 2) Speech burst durations are highly patterned.",,Patterned w/ considerable variation and Highly patterned
+114,,,,,,,,10_3,10_8,69,3,,,,,Speech burst durations are varied.,,Varied
+115,,,,,,,,10_3_2,10_12,7,3,2,,,,"The following two points are double coded: 1) Speech burst durations are varied; and 2) Speech burst durations are somewhat patterned, wtih considerable variation.",,Varied and Patterned w/ considerable variation
+116,V11,Attempted Interventions,The frequency of brief energetic speech bursts by one speaker during activity by another which seem to represent attempts to take over the leading position in the dialogue.,,Ordinal,Lomax & Markel (1971-72); Wood (2021),,11_NA,11_NA,30,NA,,,,,Missing data,,Missing data
+117,,,,,,,,11_1,11_2,36,1,,,,,"Attempted inventions are not heard at all or are heard only in one or two brief, non-noteworthy instances.",,Little/none
+118,,,,,,,,11_2,11_4,39,2,,,,,"Attempted interventions are infrequent, but noteworthy.",,Occasional
+119,,,,,,,,11_2_1,11_6,7,2,1,,,,The following two points are double coded: 1) Little/none and 2) Occasional,,Little/none and Occasional
+120,,,,,,,,11_3,11_8,34,3,,,,,A moderate amount of clear attempted interventions.,,Moderate
+121,,,,,,,,11_3_2,11_12,9,3,2,,,,The following two points are double coded: 1) Moderate and 2) Occasional,,Moderate and Occasional
+122,,,,,,,,11_4,11_16,17,4,,,,,Attempted interventions are frequent.,,Frequent
+123,,,,,,,,11_4_3,11_24,8,4,3,,,,The following two points are double coded: 1) Frequent and 2) Moderate,,Frequent and Moderate
+124,,,,,,,,11_5,11_32,4,5,,,,,Attempted interventions are very frequent and marked.,,Very frequent
+125,,,,,,,,11_5_4,11_48,4,5,4,,,,The following two points are double coded: 1) Very frequent and 2) Frequent,,Very frequent and Frequent
+126,V12A,Number interchanges per minute 1,The number of speaker changes (counting even brief interjections) during one minute of conversation.,Interchanges,Ordinal,Lomax & Markel (1971-72); Wood (2021),,12A_NA,12A_NA,37,NA,,,,,Missing data,,Missing data
+127,,,,,,,,12A_1,12A_2,23,1,,,,,1-10 interchanges,,1-10
+128,,,,,,,,12A_2,12A_4,38,2,,,,,11-15 interchanges,,11-15
+129,,,,,,,,12A_3,12A_8,28,3,,,,,16-20 interchanges,,16-20
+130,,,,,,,,12A_4,12A_16,33,4,,,,,21-30 interchanges,,21-30
+131,,,,,,,,12A_5,12A_32,29,5,,,,,31 interchanges or more,,31 plus
+132,V12B,Number interchanges per minute 2,The number of speaker changes (counting even brief interjections) during a second minute of conversation.,Interchanges,Ordinal,Lomax & Markel (1971-72); Wood (2021),,12B_NA,12B_NA,123,NA,,,,,Missing data,,Missing data
+133,,,,,,,,12B_1,12B_2,13,1,,,,,1-10 interchanges,,1-10
+134,,,,,,,,12B_2,12B_4,11,2,,,,,11-15 interchanges,,11-15
+135,,,,,,,,12B_3,12B_8,11,3,,,,,16-20 interchanges,,16-20
+136,,,,,,,,12B_4,12B_16,22,4,,,,,21-30 interchanges,,21-30
+137,,,,,,,,12B_5,12B_32,8,5,,,,,31 interchanges or more,,31 plus
+138,V13,Inter-speaker Transition,The degree of abruptness of the transitions between speakers.,Interchanges,Ordinal,Lomax & Markel (1971-72); Wood (2021),,13_NA,13_NA,32,NA,,,,,Missing data,,Missing data
+139,,,,,,,,13_1,13_2,3,1,,,,,Transitions between speakers are easy and gradual.,,Gradual
+140,,,,,,,,13_2,13_4,19,2,,,,,Transitions between speakers are somewhat or mostly gradual.,,Two
+141,,,,,,,,13_3,13_8,32,3,,,,,"Transitions between speakers are not particularly gradual or abrupt, or there is an equal mix of gradual and abrupt transitions.",,Three
+142,,,,,,,,13_3_2,13_12,5,3,2,,,,"The following two points are double coded: 1) Transitions between speakers are somewhat or mostly gradual. and 2) Transitions between speakers are not particularly gradual or abrupt, or there is an equal mix of gradual and abrupt transitions.",,Two and Three
+143,,,,,,,,13_4,13_16,48,4,,,,,Transitions between speakers are somewhat or mostly abrupt.,,Four
+144,,,,,,,,13_4_1,13_18,2,4,1,,,,The following two points are double coded: 1) Transitions between speakers are easy and gradual. and 2) Transitions between speakers are somewhat or mostly abrupt.,,Gradual and Four
+145,,,,,,,,13_4_2,13_20,7,4,2,,,,The following two points are double coded: 1) Transitions between speakers are somewhat or mostly gradual. and 2) Transitions between speakers are somewhat or mostly abrupt.,,Two and Four
+146,,,,,,,,13_4_2_1,13_22,1,4,2,1,,,The following three points are triple coded: 1) Transitions between speakers are easy and gradual. 2) Transitions between speakers are somewhat or mostly gradual. and 3) Transitions between speakers are somewhat or mostly abrupt.,,Gradual and Two and Four
+147,,,,,,,,13_4_3,13_24,15,4,3,,,,"The following two points are double coded: 1) Transitions between speakers are not particularly gradual or abrupt, or there is an equal mix of gradual and abrupt transitions. and 2) Transitions between speakers are somewhat or mostly abrupt.",,Three and Four
+148,,,,,,,,13_4_3_2,13_28,1,4,3,2,,,"The following three points are triple coded: 1) Transitions between speakers are somewhat or mostly gradual. 2) Transitions between speakers are not particularly gradual or abrupt, or there is an equal mix of gradual and abrupt transitions. and 3) Transitions between speakers are somewhat or mostly abrupt.",,Two and Three and Four
+149,,,,,,,,13_5,13_32,14,5,,,,,Transitions between speakers are clipped and abrupt.,,Abrupt
+150,,,,,,,,13_5_3,13_40,1,5,3,,,,"The following two points are double coded: 1) Transitions between speakers are not particularly gradual or abrupt, or there is an equal mix of gradual and abrupt transitions. and 2) Transitions between speakers are clipped and abrupt.",,Three and Abrupt
+151,,,,,,,,13_5_4,13_48,7,5,4,,,,The following two points are double coded: 1) Transitions between speakers are somewhat or mostly abrupt. and 2) Transitions between speakers are clipped and abrupt.,,Four and Abrupt
+152,,,,,,,,13_5_4_2,13_52,1,5,4,2,,,The following three points are triple coded: 1) Transitions between speakers are somewhat or mostly gradual. 2) Transitions between speakers are somewhat or mostly abrupt. and 3) Transitions between speakers are clipped and abrupt.,,Two and Four and Abrupt
+153,V14,Gabble,"The frequency of gabble in the conversation, when the utterances of two speakers coincide and mask each other to produce a noisy effect.",Interchanges,Ordinal,Lomax & Markel (1971-72); Wood (2021),,14_NA,14_NA,35,NA,,,,,Missing data,,Missing data
+154,,,,,,,,14_1,14_2,83,1,,,,,Gabble is infrequent.,,One
+155,,,,,,,,14_2,14_4,37,2,,,,,Gabble is somewhat frequent.,,Two
+156,,,,,,,,14_2_1,14_6,8,2,1,,,,The following two points are double coded: 1) Inrequent and 2) Somewhat frequent,,One and Two
+157,,,,,,,,14_3,14_8,20,3,,,,,Gabble is very frequent.,,Three
+158,,,,,,,,14_3_2,14_12,5,3,2,,,,The following two points are double coded: 1) Somewhat frequent and 2) Very frequent,,Two and Three
+159,V15,Interjections as Responses,"The frequency and prominence of interjected responses by one speaker to another. Responsorial interjections are differentiated from murmured interjections in that they are definite responses rather than general acknowledgments, and they occur during pauses in the main speaker’s speech rather than superimposed upon it.",Interjections,Ordinal,Lomax & Markel (1971-72); Wood (2021),,15_NA,15_NA,30,NA,,,,,Missing data,,Missing data
+160,,,,,,,,15_1,15_2,7,1,,,,,"Responsorial interjections are not heard at all or are heard only in one or two brief, non-noteworthy instances.",,Little/none
+161,,,,,,,,15_2,15_4,36,2,,,,,"Responsorial interjections are infrequent, but noteworthy.",,Occasional
+162,,,,,,,,15_2_1,15_6,5,2,1,,,,The following two points are double coded: 1) Little/none and 2) Occasional,,Little/none and Occasional
+163,,,,,,,,15_3,15_8,56,3,,,,,A moderate amount of clear Responsorial interjections.,,Moderate
+164,,,,,,,,15_3_2,15_12,6,3,2,,,,The following two points are double coded: 1) Moderate and 2) Occasional,,Moderate and Occasional
+165,,,,,,,,15_4,15_16,23,4,,,,,Responsorial interjections are frequent.,,Frequent
+166,,,,,,,,15_4_2,15_20,1,4,2,,,,The following two points are double coded: 1) Frequent and 2) Occasional,,Frequent and Occasional
+167,,,,,,,,15_4_3,15_24,11,4,3,,,,The following two points are double coded: 1) Frequent and 2) Moderate,,Frequent and Moderate
+168,,,,,,,,15_5,15_32,8,5,,,,,Responsorial interjections are very frequent and marked.,,Very frequent
+169,,,,,,,,15_5_3,15_40,1,5,3,,,,The following two points are double coded: 1) Very Frequent and 2) Moderate,,Very Frequent and Moderate
+170,,,,,,,,15_5_4,15_48,4,5,4,,,,The following two points are double coded: 1) Very frequent and 2) Frequent,,Very frequent and Frequent
+171,V16,Murmured interjections,"The frequency and prominence of quiet, brief interjections by speaker B during A's main activity that seem to support this activity and encourage speaker A to continue (e.g., um-hum, aha, etc.)",Interjections,Ordinal,Lomax & Markel (1971-72); Wood (2021),,16_NA,16_NA,30,NA,,,,,Missing data,,Missing data
+172,,,,,,,,16_1,16_2,63,1,,,,,"Murmured interjections are not heard at all or are heard only in one or two brief, non-noteworthy instances.",,Little/none
+173,,,,,,,,16_2,16_4,35,2,,,,,"Murmured interjections are infrequent, but noteworthy.",,Occasional
+174,,,,,,,,16_2_1,16_6,6,2,1,,,,The following two points are double coded: 1) Little/none and 2) Occasional,,Little/none and Occasional
+175,,,,,,,,16_3,16_8,21,3,,,,,A moderate amount of clear murmured interjections.,,Moderate
+176,,,,,,,,16_3_2,16_12,8,3,2,,,,The following two points are double coded: 1) Moderate and 2) Occasional,,Moderate and Occasional
+177,,,,,,,,16_4,16_16,12,4,,,,,Murmured interjections are frequent.,,Frequent
+178,,,,,,,,16_4_2,16_20,1,4,2,,,,The following two points are double coded: 1) Frequent and 2) Occasional,,Frequent and Occasional
+179,,,,,,,,16_4_3,16_24,4,4,3,,,,The following two points are double coded: 1) Frequent and 2) Moderate,,Frequent and Moderate
+180,,,,,,,,16_5,16_32,5,5,,,,,Murmured interjections are very frequent and marked.,,Very frequent
+181,,,,,,,,16_5_4,16_48,3,5,4,,,,The following two points are double coded: 1) Very frequent and 2) Frequent,,Very frequent and Frequent
+182,V17,Intoned Vocal Segregates,"The frequency of vocal segregates with clear, musical pitch which occur as interjections.",Interjections,Ordinal,Lomax & Markel (1971-72); Wood (2021),Intoned vocal segregates are non-lexical utterances with a clear musical pitch used either as murmured or responsorial interjections (such as “Mm-hmm” in some instances). Some of these interjections may be the same ones already coded in V15 or V16. The difference in coding V17 is that only interjections with clear musical pitch are considered. ,17_NA,17_NA,26,NA,,,,,Missing data,,Missing data
+183,,,,,,,,17_1,17_2,123,1,,,,,Intoned vocal segregates are infrequent.,,One
+184,,,,,,,,17_2,17_4,19,2,,,,,Intoned vocal segregates are somewhat frequent.,,Two
+185,,,,,,,,17_2_1,17_6,9,2,1,,,,The following two points are double coded: 1) Inrequent and 2) Somewhat frequent,,One and Two
+186,,,,,,,,17_3,17_8,7,3,,,,,Intoned vocal segregates are very frequent.,,Three
+187,,,,,,,,17_3_2,17_12,4,3,2,,,,The following two points are double coded: 1) Somewhat frequent and 2) Very frequent,,Two and Three
+188,V18,Echo,The frequency with which one speaker repeats or echoes the speech of another.,Repetition,Ordinal,Lomax & Markel (1971-72); Wood (2021),,18_NA,18_NA,33,NA,,,,,Missing data,,Missing data
+189,,,,,,,,18_1,18_2,53,1,,,,,Echo is infrequent.,,One
+190,,,,,,,,18_2,18_4,66,2,,,,,Echo is somewhat frequent.,,Two
+191,,,,,,,,18_2_1,18_6,5,2,1,,,,The following two points are double coded: 1) Inrequent and 2) Somewhat frequent,,One and Two
+192,,,,,,,,18_3,18_8,28,3,,,,,Echo is very frequent.,,Three
+193,,,,,,,,18_3_2,18_12,3,3,2,,,,The following two points are double coded: 1) Somewhat frequent and 2) Very frequent,,Two and Three
+194,V19,Repeats,The frequency with which a speaker repeats his or her own utterances.,Repetition,Ordinal,Lomax & Markel (1971-72); Wood (2021),,19_NA,19_NA,10,NA,,,,,Missing data,,Missing data
+195,,,,,,,,19_1,19_2,59,1,,,,,Repeats are infrequent.,,One
+196,,,,,,,,19_2,19_4,70,2,,,,,Repeats are somewhat frequent.,,Two
+197,,,,,,,,19_2_1,19_6,8,2,1,,,,The following two points are double coded: 1) Inrequent and 2) Somewhat frequent,,One and Two
+198,,,,,,,,19_3,19_8,33,3,,,,,Repeats are very frequent.,,Three
+199,,,,,,,,19_3_1,19_10,2,3,1,,,,The following two points are double coded: 1) Infrequent and 2) Very frequent,,One and Three
+200,,,,,,,,19_3_2,19_12,6,3,2,,,,The following two points are double coded: 1) Somewhat frequent and 2) Very frequent,,Two and Three
+201,V20,Inter-speaker Pauses,The presence and frequency of pauses between each speaker’s speech (i.e. during transitions between two speakers),Pauses,Ordinal,Lomax & Markel (1971-72); Wood (2021),,20_NA,20_NA,29,NA,,,,,Missing data,,Missing data
+202,,,,,,,,20_1,20_2,26,1,,,,,"Pauses between speakers are not heard at all or are heard only in one or two brief, non-noteworthy instances.",,Little/none
+203,,,,,,,,20_2,20_4,46,2,,,,,"Pauses between speakers are infrequent, but noteworthy.",,Occasional
+204,,,,,,,,20_2_1,20_6,6,2,1,,,,The following two points are double coded: 1) Little/none and 2) Occasional,,Little/none and Occasional
+205,,,,,,,,20_3,20_8,31,3,,,,,A moderate amount of clear pauses between speakers.,,Moderate
+206,,,,,,,,20_3_2,20_12,6,3,2,,,,The following two points are double coded: 1) Moderate and 2) Occasional,,Moderate and Occasional
+207,,,,,,,,20_4,20_16,27,4,,,,,Pauses between speakers are frequent.,,Frequent
+208,,,,,,,,20_4_3,20_24,7,4,3,,,,The following two points are double coded: 1) Frequent and 2) Moderate,,Frequent and Moderate
+209,,,,,,,,20_5,20_32,10,5,,,,,Pauses between speakers are very frequent and marked.,,Very frequent
+210,V21,Intra-speaker Pauses,The presence and frequency of clear pauses within the speech of one speaker.,Pauses,Ordinal,Lomax & Markel (1971-72); Wood (2021),,21_NA,21_NA,1,NA,,,,,Missing data,,Missing data
+211,,,,,,,,21_1,21_2,5,1,,,,,"Intra-speaker pauses are not heard at all or are heard only in one or two brief, non-noteworthy instances.",,Little/none
+212,,,,,,,,21_2,21_4,37,2,,,,,"Intra-speaker pauses are infrequent, but noteworthy.",,Occasional
+213,,,,,,,,21_2_1,21_6,6,2,1,,,,The following two points are double coded: 1) Little/none and 2) Occasional,,Little/none and Occasional
+214,,,,,,,,21_3,21_8,54,3,,,,,A moderate amount of clear intra-speaker pauses.,,Moderate
+215,,,,,,,,21_3_2,21_12,7,3,2,,,,The following two points are double coded: 1) Moderate and 2) Occasional,,Moderate and Occasional
+216,,,,,,,,21_4,21_16,32,4,,,,,Intra-speaker pauses are frequent.,,Frequent
+217,,,,,,,,21_4_3,21_24,17,4,3,,,,The following two points are double coded: 1) Frequent and 2) Moderate,,Frequent and Moderate
+218,,,,,,,,21_5,21_32,21,5,,,,,Intra-speaker pauses are very frequent and marked.,,Very frequent
+219,,,,,,,,21_5_3,21_40,1,5,3,,,,The following two points are double coded: 1) Very Frequent and 2) Moderate,,Very Frequent and Moderate
+220,,,,,,,,21_5_4,21_48,7,5,4,,,,The following two points are double coded: 1) Very frequent and 2) Frequent,,Very frequent and Frequent
+221,V22,Vocal Stance,"The degree to which each speaker maintains a single vocal stance, or manner of speaking throughout a conversation, or whether aspects of his or her vocal stance (such as timbre, pitch, tempo, and volume, for example) change from moment to moment.",,Categorical,Lomax & Markel (1971-72); Wood (2021),,22_NA,22_NA,1,NA,,,,,Missing data,,Missing data
+222,,,,,,,,22_1,22_2,59,1,,,,,One vocal stance predominates throughout.,,1 dominant vocal stance
+223,,,,,,,,22_2,22_4,39,2,,,,,"One vocal stance is present throughout, but with considerable variation.",,1 w/ variation
+224,,,,,,,,22_2_1,22_6,4,2,1,,,,"The following two points are double coded: 1) One vocal stance predominates throughout. and 2) One vocal stance is present throughout, but with considerable variation.",,1 dominant vocal stance and 1 w/ variation
+225,,,,,,,,22_3,22_8,1,3,,,,,Each speaker alternates between two vocal stances.,,Alternation between 2 vocal stances
+226,,,,,,,,22_4,22_16,59,4,,,,,Vocal stance is moderately changeful.,,Moderate changeful
+227,,,,,,,,22_4_1,22_18,1,4,1,,,,The following two points are double coded: 1) One vocal stance predominates throughout. and 2) Vocal stance is moderately changeful.,,1 dominant vocal stance and Moderate changeful
+228,,,,,,,,22_4_2,22_20,6,4,2,,,,"The following two points are double coded: 1) One vocal stance is present throughout, but with considerable variation. and 2) Vocal stance is moderately changeful.",,1 w/ variation and Moderate changeful
+229,,,,,,,,22_4_3,22_24,1,4,3,,,,The following two points are double coded: 1) Each speaker alternates between two vocal stances. and 2) Vocal stance is moderately changeful.,,Alternation between 2 vocal stances and Moderate changeful
+230,,,,,,,,22_5,22_32,11,5,,,,,Vocal stance is flexible and changeful.,,Flexible & changeful
+231,,,,,,,,22_5_4,22_48,5,5,4,,,,The following two points are double coded: 1) Vocal stance is moderately changeful. and 2) Vocal stance is flexible and changeful.,,Moderate changeful and Flexible & changeful
+232,,,,,,,,22_5_4_2,22_52,1,5,4,2,,,"The following three points are triple coded: 1) One vocal stance is present throughout, but with considerable variation. 2) Vocal stance is moderately changeful. 3) Vocal stance is flexible and changeful.",,1 w/ variation and Moderate changeful and Flexible & changeful
+233,V23,Laughter,"The frequency of giggling, chuckling, snickering or laughing.",Affect,Ordinal,Lomax & Markel (1971-72); Wood (2021),,23_NA,23_NA,3,NA,,,,,Missing data,,Missing data
+234,,,,,,,,23_1,23_2,111,1,,,,,Laughter is infrequent.,,One
+235,,,,,,,,23_2,23_4,51,2,,,,,Laughter is somewhat frequent.,,Two
+236,,,,,,,,23_2_1,23_6,13,2,1,,,,The following two points are double coded: 1) Inrequent and 2) Somewhat frequent,,One and Two
+237,,,,,,,,23_3,23_8,8,3,,,,,Laughter is very frequent.,,Three
+238,,,,,,,,23_3_2,23_12,2,3,2,,,,The following two points are double coded: 1) Somewhat frequent and 2) Very frequent,,Two and Three
+239,V24,Humorous,The degree of humor and laughter-filled tone in the interaction.,Affect,Ordinal,Lomax & Markel (1971-72); Wood (2021),,24_NA,24_NA,9,NA,,,,,Missing data,,Missing data
+240,,,,,,,,24_1,24_2,88,1,,,,,The conversation does not have a humorous tone.,,One
+241,,,,,,,,24_2,24_4,24,2,,,,,The conversation has a slightly humorous tone.,,Two
+242,,,,,,,,24_2_1,24_6,15,2,1,,,,The following two points are double coded: 1) Not humorous and 2) Slightly humorous,,One and Two
+243,,,,,,,,24_3,24_8,20,3,,,,,The conversation has a moderately humorous tone.,,Three
+244,,,,,,,,24_3_1,24_10,5,3,1,,,,The following two points are double coded: 1) Not humorous and 2) Moderately humorous,,One and Three
+245,,,,,,,,24_3_2,24_12,7,3,2,,,,The following two points are double coded: 1) Slightly humorous and 2) Moderately humorous,,Two and Three
+246,,,,,,,,24_4,24_16,12,4,,,,,The conversation has a humorous tone.,,Four
+247,,,,,,,,24_4_3,24_24,3,4,3,,,,The following two points are double coded: 1) Moderately humorous and 2) Humorous,,Three and Four
+248,,,,,,,,24_5,24_32,1,5,,,,,The conversation has a very humorous tone.,,Five
+249,,,,,,,,24_5_3,24_40,2,5,3,,,,The following two points are double coded: 1) Moderately humorous and 2) Very Humorous,,Three and Five
+250,,,,,,,,24_5_4,24_48,2,5,4,,,,The following two points are double coded: 1) Humorous and 2) Very Humorous,,Four and Five
+251,V25,Tender,The degree of tenderness in the conversation.,Affect,Ordinal,Lomax & Markel (1971-72); Wood (2021),,25_NA,25_NA,10,NA,,,,,Missing data,,Missing data
+252,,,,,,,,25_1,25_2,16,1,,,,,The conversation does not have a tender affect.,,One
+253,,,,,,,,25_2,25_4,35,2,,,,,The conversation has a slightly tender affect.,,Two
+254,,,,,,,,25_2_1,25_6,13,2,1,,,,The following two points are double coded: 1) Not tender and 2) Slightly tender,,One and Two
+255,,,,,,,,25_3,25_8,45,3,,,,,The conversation has a moderately tender affect.,,Three
+256,,,,,,,,25_3_1,25_10,9,3,1,,,,The following two points are double coded: 1) Not tender and 2) Moderately tender,,One and Three
+257,,,,,,,,25_3_2,25_12,13,3,2,,,,The following two points are double coded: 1) Slightly tender and 2) Moderately tender,,Two and Three
+258,,,,,,,,25_4,25_16,21,4,,,,,The conversation has a tender affect.,,Four
+259,,,,,,,,25_4_2,25_20,2,4,2,,,,The following two points are double coded: 1) Slightly tender and 2) Tender,,Two and Four
+260,,,,,,,,25_4_3,25_24,15,4,3,,,,The following two points are double coded: 1) Moderately tender and 2) Tender,,Three and Four
+261,,,,,,,,25_5,25_32,1,5,,,,,The conversation has a very tender affect.,,Five
+262,,,,,,,,25_5_2,25_36,1,5,2,,,,The following two points are double coded: 1) Slightly tender and 2) Very Tender,,Two and Five
+263,,,,,,,,25_5_3,25_40,1,5,3,,,,The following two points are double coded: 1) Moderately tender and 2) Very tender,,Three and Five
+264,,,,,,,,25_5_4,25_48,6,5,4,,,,The following two points are double coded: 1) Tender and 2) Very tender,,Four and Five
+265,V26,Supportive,The degree to which the relationship between the speakers is supportive or cooperative.,Affect,Ordinal,Lomax & Markel (1971-72); Wood (2021),,26_NA,26_NA,38,NA,,,,,Missing data,,Missing data
+266,,,,,,,,26_1,26_2,8,1,,,,,The relationship between the speakers is not supportive or cooperative.,,One
+267,,,,,,,,26_2,26_4,34,2,,,,,The relationship between the speakers is slightly supportive or cooperative.,,Two
+268,,,,,,,,26_2_1,26_6,4,2,1,,,,The following two points are double coded: 1) Not supportive or cooperative and 2) Slightly supportive or cooperative,,One and Two
+269,,,,,,,,26_3,26_8,36,3,,,,,The relationship between the speakers is moderately supportive or cooperative.,,Three
+270,,,,,,,,26_3_2,26_12,6,3,2,,,,The following two points are double coded: 1) Slightly supportive or cooperative and 2) Moderately supportive or cooperative,,Two and Three
+271,,,,,,,,26_4,26_16,37,4,,,,,The relationship between the speakers is supportive or cooperative.,,Four
+272,,,,,,,,26_4_2,26_20,1,4,2,,,,The following two points are double coded: 1) Slightly supportive or cooperative and 2) Supportive or cooperative,,Two and Four
+273,,,,,,,,26_4_3,26_24,10,4,3,,,,The following two points are double coded: 1) Moderately supportive or cooperative and 2) Supportive or cooperative,,Three and Four
+274,,,,,,,,26_5,26_32,3,5,,,,,The relationship between the speakers is very supportive or cooperative.,,Five
+275,,,,,,,,26_5_3,26_40,1,5,3,,,,The following two points are double coded: 1) Moderately supportive or cooperative and 2) Very supportive or cooperative,,Three and Five
+276,,,,,,,,26_5_4,26_48,10,5,4,,,,The following two points are double coded: 1) Supportive or cooperative and 2) Very supportive or cooperative,,Four and Five
+277,V27,Excited,The level of tension and excitement in the interchange.,Affect,Ordinal,Lomax & Markel (1971-72); Wood (2021),,27_NA,27_NA,10,NA,,,,,Missing data,,Missing data
+278,,,,,,,,27_1,27_2,38,1,,,,,The conversation does not have an excited or tense affect.,,One
+279,,,,,,,,27_2,27_4,39,2,,,,,The conversation has a slightly excited or tense affect.,,Two
+280,,,,,,,,27_2_1,27_6,14,2,1,,,,The following two points are double coded: 1) Not excited or tense and 2) Slightly excited or tense,,One and Two
+281,,,,,,,,27_3,27_8,34,3,,,,,The conversation has a moderately excited or tense affect.,,Three
+282,,,,,,,,27_3_1,27_10,2,3,1,,,,The following two points are double coded: 1) Not excited or tense and 2) Moderately excited or tense,,One and Three
+283,,,,,,,,27_3_2,27_12,11,3,2,,,,The following two points are double coded: 1) Slightly excited or tense and 2) Moderately excited or tense,,Two and Three
+284,,,,,,,,27_4,27_16,20,4,,,,,The conversation has an excited or tense affect.,,Four
+285,,,,,,,,27_4_1,27_18,2,4,1,,,,The following two points are double coded: 1) Not excited or tense and 2) Excited or tense,,One and Four
+286,,,,,,,,27_4_2,27_20,3,4,2,,,,The following two points are double coded: 1) Slightly excited or tense and 2) Excited or tense,,Two and Four
+287,,,,,,,,27_4_3,27_24,8,4,3,,,,The following two points are double coded: 1) Moderately excited or tense and 2) Excited or tense,,Three and Four
+288,,,,,,,,27_5,27_32,5,5,,,,,The conversation has a very excited or tense affect.,,Five
+289,,,,,,,,27_5_2,27_36,1,5,2,,,,The following two points are double coded: 1) Slightly excited or tense and 2) Very excited or tense,,Two and Five
+290,,,,,,,,27_5_4,27_48,1,5,4,,,,The following two points are double coded: 1) Excited or tense and 2) Very excited or tense,,Four and Five
+291,V28,Competitive,The degree to which the interchange is competitive or aggressive.,Affect,Ordinal,Lomax & Markel (1971-72); Wood (2021),,28_NA,28_NA,38,NA,,,,,Missing data,,Missing data
+292,,,,,,,,28_1,28_2,22,1,,,,,The relationship between the speakers is not competitive or aggressive.,,One
+293,,,,,,,,28_2,28_4,27,2,,,,,The relationship between the speakers is slightly competitive or aggressive.,,Two
+294,,,,,,,,28_2_1,28_6,6,2,1,,,,The following two points are double coded: 1) Not competitive or aggressive and 2) Slightly competitive or aggressive,,One and Two
+295,,,,,,,,28_3,28_8,34,3,,,,,The relationship between the speakers is moderately competitive or aggressive.,,Three
+296,,,,,,,,28_3_1,28_10,3,3,1,,,,The following two points are double coded: 1) Not competitive or aggressive and 2) Moderately competitive or aggressive,,One and Three
+297,,,,,,,,28_3_2,28_12,14,3,2,,,,The following two points are double coded: 1) Slightly competitive or aggressive and 2) Moderately competitive or aggressive,,Two and Three
+298,,,,,,,,28_4,28_16,24,4,,,,,The relationship between the speakers is competitive or aggressive.,,Four
+299,,,,,,,,28_4_2,28_20,1,4,2,,,,The following two points are double coded: 1) Slightly competitive or aggressive and 2) Competitive or aggressive,,Two and Four
+300,,,,,,,,28_4_3,28_24,8,4,3,,,,The following two points are double coded: 1) Moderately competitive or aggressive and 2) Competitive or aggressive,,Three and Four
+301,,,,,,,,28_5,28_32,5,5,,,,,The relationship between the speakers is very competitive or aggressive.,,Five
+302,,,,,,,,28_5_1,28_34,1,5,1,,,,The following two points are double coded: 1) Not competitive or aggressive and 2) Very competitive or aggressive,,One and Five
+303,,,,,,,,28_5_4,28_48,5,5,4,,,,The following two points are double coded: 1) Competitive or aggressive and 2) Very competitive or aggressive,,Four and Five
+304,V29,Rich and Resonant,The presence or absence of rich resonant vocalization.,Vocal Quality,Categorical,Lomax & Markel (1971-72); Wood (2021),,29_NA,29_NA,10,NA,,,,,Missing data,,Missing data
+305,,,,,,,,29_1,29_2,108,1,,,,,Rich and resonant vocalization is not marked.,,Not marked
+306,,,,,,,,29_2,29_4,54,2,,,,,There is marked rich and resonsant vocalization.,,Marked
+307,,,,,,,,29_2_1,29_6,16,2,1,,,,Intermediate? Unclear how it can be both. Check,,
+308,V30,Breathiness,"The presence or absence of clear-cut breathiness, including marked use of aspiration.",Vocal Quality,Categorical,Lomax & Markel (1971-72); Wood (2021),,30_NA,30_NA,10,NA,,,,,Missing data,,Missing data
+309,,,,,,,,30_1,30_2,91,1,,,,,Breathiness is not marked.,,Not marked
+310,,,,,,,,30_2,30_4,68,2,,,,,There is marked breathiness or aspiration.,,Marked
+311,,,,,,,,30_2_1,30_6,19,2,1,,,,Intermediate? Unclear how it can be both. Check,,
+312,V31,Harsh,"The frequency of harshness, hoarseness, fry, back consonants and/or other guttural, noisy and throaty sounds.",Vocal Quality,Ordinal,Lomax & Markel (1971-72); Wood (2021),,31_NA,31_NA,0,NA,,,,,Missing data,,Missing data
+313,,,,,,,,31_1,31_2,3,1,,,,,"Harsh vocal sounds are not heard at all or are heard only in one or two brief, non-noteworthy instances.",,Little/none
+314,,,,,,,,31_2,31_4,15,2,,,,,"Harsh vocal sounds are infrequent, but noteworthy.",,Occasional
+315,,,,,,,,31_2_1,31_6,2,2,1,,,,The following two points are double coded: 1) Little/none and 2) Occasional,,Little/none and Occasional
+316,,,,,,,,31_3,31_8,38,3,,,,,A moderate amount of clear harsh vocal sounds.,,Moderate
+317,,,,,,,,31_3_1,31_10,1,3,1,,,,The following two points are double coded: 1) Little/none and 2) Moderate,,Little/none and Moderate
+318,,,,,,,,31_3_2,31_12,17,3,2,,,,The following two points are double coded: 1) Moderate and 2) Occasional,,Moderate and Occasional
+319,,,,,,,,31_4,31_16,46,4,,,,,Harsh vocal sounds are frequent.,,Frequent
+320,,,,,,,,31_4_2,31_20,6,4,2,,,,The following two points are double coded: 1) Frequent and 2) Occasional,,Frequent and Occasional
+321,,,,,,,,31_4_3,31_24,26,4,3,,,,The following two points are double coded: 1) Frequent and 2) Moderate,,Frequent and Moderate
+322,,,,,,,,31_5,31_32,14,5,,,,,Harsh vocal sounds are very frequent and marked.,,Very frequent
+323,,,,,,,,31_5_2,31_36,2,5,2,,,,The following two points are double coded: 1) Very Frequent and 2) Occasional,,Very Frequent and Occasional
+324,,,,,,,,31_5_3,31_40,3,5,3,,,,The following two points are double coded: 1) Very Frequent and 2) Moderate,,Very Frequent and Moderate
+325,,,,,,,,31_5_4,31_48,14,5,4,,,,The following two points are double coded: 1) Very frequent and 2) Frequent,,Very frequent and Frequent
+326,,,,,,,,31_5_4_3,31_56,1,5,4,3,,,"The following three points are triple coded: 1) Very frequent,  2) Frequent and 3) Moderate",,Very frequent and Frequent
+327,V32,Nasal,The frequency of a nasal tone accompanying speech.,Vocal Quality,Ordinal,Lomax & Markel (1971-72); Wood (2021),,32_NA,32_NA,4,NA,,,,,Missing data,,Missing data
+328,,,,,,,,32_1,32_2,2,1,,,,,"Nasal vocal tone is not heard at all or are heard only in one or two brief, non-noteworthy instances.",,Little/none
+329,,,,,,,,32_2,32_4,24,2,,,,,"Nasal vocal tone is infrequent, but noteworthy.",,Occasional
+330,,,,,,,,32_2_1,32_6,2,2,1,,,,The following two points are double coded: 1) Little/none and 2) Occasional,,Little/none and Occasional
+331,,,,,,,,32_3,32_8,30,3,,,,,A moderate amount of clear nasal vocal tone.,,Moderate
+332,,,,,,,,32_3_1,32_10,1,3,1,,,,The following two points are double coded: 1) Little/none and 2) Moderate,,Little/none and Moderate
+333,,,,,,,,32_3_2,32_12,18,3,2,,,,The following two points are double coded: 1) Moderate and 2) Occasional,,Moderate and Occasional
+334,,,,,,,,32_4,32_16,61,4,,,,,Nasal vocal tone is frequent.,,Frequent
+335,,,,,,,,32_4_2,32_20,5,4,2,,,,The following two points are double coded: 1) Frequent and 2) Occasional,,Frequent and Occasional
+336,,,,,,,,32_4_3,32_24,12,4,3,,,,The following two points are double coded: 1) Frequent and 2) Moderate,,Frequent and Moderate
+337,,,,,,,,32_5,32_32,15,5,,,,,Nasal vocal tone is very frequent and marked.,,Very frequent
+338,,,,,,,,32_5_3,32_40,4,5,3,,,,The following two points are double coded: 1) Very Frequent and 2) Moderate,,Very Frequent and Moderate
+339,,,,,,,,32_5_4,32_48,10,5,4,,,,The following two points are double coded: 1) Very frequent and 2) Frequent,,Very frequent and Frequent
+340,V33,Hard,The absence or presence of a hard metallic quality in the voice.,Vocal Quality,Categorical,Lomax & Markel (1971-72); Wood (2021),,33_NA,33_NA,,NA,,,,,Missing data,,Missing data
+341,,,,,,,,33_1,33_2,,1,,,,,A hard metallic vocal quality is not heard.,,Absence
+342,,,,,,,,33_2,33_4,,2,,,,,There is a marked hard metallic vocal quality.,,Presence
+343,V34,Gliding,The frequency of spekaers sliding or gliding from sound to sound.,Rhythm,Ordinal,Lomax & Markel (1971-72); Wood (2021),,34_NA,34_NA,0,NA,,,,,Missing data,,Missing data
+344,,,,,,,,34_1,34_2,42,1,,,,,"Gliding is not heard at all or are heard only in one or two brief, non-noteworthy instances.",,Little/none
+345,,,,,,,,34_2,34_4,31,2,,,,,"Gliding is infrequent, but noteworthy.",,Occasional
+346,,,,,,,,34_2_1,34_6,16,2,1,,,,The following two points are double coded: 1) Little/none and 2) Occasional,,Little/none and Occasional
+347,,,,,,,,34_3,34_8,25,3,,,,,A moderate amount of clear gliding.,,Moderate
+348,,,,,,,,34_3_1,34_10,2,3,1,,,,The following two points are double coded: 1) Little/none and 2) Moderate,,Little/none and Moderate
+349,,,,,,,,34_3_2,34_12,9,3,2,,,,The following two points are double coded: 1) Moderate and 2) Occasional,,Moderate and Occasional
+350,,,,,,,,34_4,34_16,33,4,,,,,Gliding is frequent.,,Frequent
+351,,,,,,,,34_4_1,34_18,1,4,1,,,,The following two points are double coded: 1) Frequent and 2) Little/none,,Frequent and Little/none
+352,,,,,,,,34_4_2,34_20,4,4,2,,,,The following two points are double coded: 1) Frequent and 2) Occasional,,Frequent and Occasional
+353,,,,,,,,34_4_3,34_24,8,4,3,,,,The following two points are double coded: 1) Frequent and 2) Moderate,,Frequent and Moderate
+354,,,,,,,,34_5,34_32,12,5,,,,,Gliding is very frequent and marked.,,Very frequent
+355,,,,,,,,34_5_1,34_34,1,5,1,,,,The following two points are double coded: 1) Very Frequent and 2) Little/none,,Very Frequent and Little/none
+356,,,,,,,,34_5_3,34_40,1,5,3,,,,The following two points are double coded: 1) Very Frequent and 2) Moderate,,Very Frequent and Moderate
+357,,,,,,,,34_5_4,34_48,3,5,4,,,,The following two points are double coded: 1) Very frequent and 2) Frequent,,Very frequent and Frequent
+358,V35,Marked Clear Syllabification,"The preponderance of short, distinct, evens-spaced syllables--like beads on a string.",Rhythm,Ordinal,Lomax & Markel (1971-72); Wood (2021),,35_NA,35_NA,1,NA,,,,,Missing data,,Missing data
+359,,,,,,,,35_1,35_2,8,1,,,,,"Marked clear syllabification is not heard at all or are heard only in one or two brief, non-noteworthy instances.",,Little/none
+360,,,,,,,,35_2,35_4,31,2,,,,,"Marked clear syllabification is infrequent, but noteworthy.",,Occasional
+361,,,,,,,,35_2_1,35_6,6,2,1,,,,The following two points are double coded: 1) Little/none and 2) Occasional,,Little/none and Occasional
+362,,,,,,,,35_3,35_8,34,3,,,,,A moderate amount of marked clear syllabification.,,Moderate
+363,,,,,,,,35_3_1,35_10,1,3,1,,,,The following two points are double coded: 1) Little/none and 2) Moderate,,Little/none and Moderate
+364,,,,,,,,35_3_2,35_12,18,3,2,,,,The following two points are double coded: 1) Moderate and 2) Occasional,,Moderate and Occasional
+365,,,,,,,,35_4,35_16,39,4,,,,,Marked clear syllabification is frequent.,,Frequent
+366,,,,,,,,35_4_2,35_20,5,4,2,,,,The following two points are double coded: 1) Frequent and 2) Occasional,,Frequent and Occasional
+367,,,,,,,,35_4_3,35_24,25,4,3,,,,The following two points are double coded: 1) Frequent and 2) Moderate,,Frequent and Moderate
+368,,,,,,,,35_5,35_32,11,5,,,,,Marked clear syllabification is very frequent and marked.,,Very frequent
+369,,,,,,,,35_5_4,35_48,9,5,4,,,,The following two points are double coded: 1) Very frequent and 2) Frequent,,Very frequent and Frequent
+370,V36,Prolongations,"The frequency of drawled syllables, dwelling on sounds or prolonging sounds.",Rhythm,Ordinal,Lomax & Markel (1971-72); Wood (2021),,36_NA,36_NA,0,NA,,,,,Missing data,,Missing data
+371,,,,,,,,36_1,36_2,33,1,,,,,"Prolongation is not heard at all or are heard only in one or two brief, non-noteworthy instances.",,Little/none
+372,,,,,,,,36_2,36_4,45,2,,,,,"Prolongation is infrequent, but noteworthy.",,Occasional
+373,,,,,,,,36_2_1,36_6,25,2,1,,,,The following two points are double coded: 1) Little/none and 2) Occasional,,Little/none and Occasional
+374,,,,,,,,36_3,36_8,34,3,,,,,A moderate amount of prolongation.,,Moderate
+375,,,,,,,,36_3_1,36_10,1,3,1,,,,The following two points are double coded: 1) Little/none and 2) Moderate,,Little/none and Moderate
+376,,,,,,,,36_3_2,36_12,12,3,2,,,,The following two points are double coded: 1) Moderate and 2) Occasional,,Moderate and Occasional
+377,,,,,,,,36_4,36_16,16,4,,,,,Prolongation is frequent.,,Frequent
+378,,,,,,,,36_4_2,36_20,1,4,2,,,,The following two points are double coded: 1) Frequent and 2) Occasional,,Frequent and Occasional
+379,,,,,,,,36_4_3,36_24,9,4,3,,,,The following two points are double coded: 1) Frequent and 2) Moderate,,Frequent and Moderate
+380,,,,,,,,36_5,36_32,8,5,,,,,Prolongation is very frequent and marked.,,Very frequent
+381,,,,,,,,36_5_3,36_40,2,5,3,,,,The following two points are double coded: 1) Very Frequent and 2) Moderate,,Very Frequent and Moderate
+382,,,,,,,,36_5_4,36_48,2,5,4,,,,The following two points are double coded: 1) Very frequent and 2) Frequent,,Very frequent and Frequent
+383,V37,Stress Pattern,The pattern produced by the alternation of strong and weak stresses or accents.,Stress,Ordinal,Lomax & Markel (1971-72); Wood (2021),,37_NA,37_NA,6,NA,,,,,Missing data,,Missing data
+384,,,,,,,,37_1,37_2,34,1,,,,,Stretches of speech in which there is apparently little difference between stressed and unstressed syllables.,,Rather even
+385,,,,,,,,37_2,37_4,30,2,,,,,Speech in which more or less the same patterns of alternation between stressed and unstressed syllables occur.,,Regular patterns
+386,,,,,,,,37_2_1,37_6,8,2,1,,,,The following two points are double coded: 1) Stretches of speech in which there is apparently little difference between stressed and unstressed syllables. and 2) Speech in which more or less the same patterns of alternation between stressed and unstressed syllables occur.,,Rather even and Regular patterns
+387,,,,,,,,37_3,37_8,90,3,,,,,Unclear or varied use of stress.,,Varied
+388,,,,,,,,37_3_1,37_10,4,3,1,,,,The following two points are double coded: 1) Stretches of speech in which there is apparently little difference between stressed and unstressed syllables. and 2) Unclear or varied use of stress.,,Rather even and Varied
+389,,,,,,,,37_3_2,37_12,16,3,2,,,,The following two points are double coded: 1) Speech in which more or less the same patterns of alternation between stressed and unstressed syllables occur. and 2) Unclear or varied use of stress.,,Regular patterns and Varied
+390,,,,,,,,37_4,37_16,0,4,,,,,Markedly varied use of stress.,,Marked use of variation
+391,V38,Level of stress,The overall level of stress or accent in the conversation.,Stress,Categorical,Lomax & Markel (1971-72); Wood (2021),,38_NA,38_NA,1,NA,,,,,Missing data,,Missing data
+392,,,,,,,,38_1,38_2,3,1,,,,,The conversation is predominantly lax-- low level of stress or accent.,,Predominantly lax
+393,,,,,,,,38_2,38_4,28,2,,,,,The conversation has both lax (low) and moderate stress.,,Lax/moderate
+394,,,,,,,,38_2_1,38_6,1,2,1,,,,The following two points are double coded: 1) The conversation is predominantly lax-- low level of stress or accent. and 2) The conversation has both lax (low) and moderate stress.,,Predominantly lax and Lax/moderate
+395,,,,,,,,38_3,38_8,9,3,,,,,The conversation has both lax (low) and forceful stress.,,Lax/forc
+396,,,,,,,,38_3_2,38_12,6,3,2,,,,The following two points are double coded: 1) The conversation has both lax (low) and moderate stress. and 2) The conversation has both lax (low) and forceful stress.,,Lax/moderate and Lax/forc
+397,,,,,,,,38_4,38_16,39,4,,,,,The conversation has a predominantly moderate level of stress.,,Predominantly moderate
+398,,,,,,,,38_4_1,38_18,1,4,1,,,,The following two points are double coded: 1) The conversation is predominantly lax-- low level of stress or accent. and 2) The conversation has a predominantly moderate level of stress.,,Predominantly lax and Predominantly moderate
+399,,,,,,,,38_4_2,38_20,5,4,2,,,,The following two points are double coded: 1) The conversation has both lax (low) and moderate stress. and 2) The conversation has a predominantly moderate level of stress.,,Lax/moderate and Predominantly moderate
+400,,,,,,,,38_4_3,38_24,2,4,3,,,,The following two points are double coded: 1) The conversation has both lax (low) and forceful stress. and 2) The conversation has a predominantly moderate level of stress.,,Lax/forc and Predominantly moderate
+401,,,,,,,,38_5,38_32,58,5,,,,,The conversation has both moderate and forceful stress.,,Moderate/forc
+402,,,,,,,,38_5_2,38_36,2,5,2,,,,The following two points are double coded: 1) The conversation has both lax (low) and moderate stress. and 2) The conversation has both moderate and forceful stress.,,Lax/moderate and Moderate/forc
+403,,,,,,,,38_5_3,38_40,2,5,3,,,,The following two points are double coded: 1) The conversation has both lax (low) and forceful stress. and 2) The conversation has both moderate and forceful stress.,,Lax/forc and Moderate/forc
+404,,,,,,,,38_5_4,38_48,9,5,4,,,,The following two points are double coded: 1) The conversation has a predominantly moderate level of stress. and 2) The conversation has both moderate and forceful stress.,,Predominantly moderate and Moderate/forc
+405,,,,,,,,38_6,38_64,2,6,,,,,The conversation has a predominantly forceful level of stress.,,Predominantly forc
+406,,,,,,,,38_6_5,38_96,8,6,5,,,,The following two points are double coded: 1) The conversation has both moderate and forceful stress. and 2) The conversation has both moderate and forceful stress.,,Moderate/forc and Predominantly forc
+407,,,,,,,,38_6_5_4_3_2,38_124,7,6,5,4,3,2,,,
+408,,,,,,,,38_7,38_128,5,7,,,,,The conversation has a varied stress level.,,Varied
+409,V39,Tempo,"The pace or tempo of the conversation, using a scale based on styles of tempo that were frequent in real examples of speech.",Dynamics,Categorical,Lomax & Markel (1971-72); Wood (2021),,39_NA,39_NA,0,NA,,,,,Missing data,,Missing data
+410,,,,,,,,39_1,39_2,7,1,,,,,The tempo of the conversation is slow and steady throughout.,,Steadily slow
+411,,,,,,,,39_2,39_4,16,2,,,,,"The tempo of the conversation is generally unhurried, but varies throughout the conversation.",,Unhurry w/ variation
+412,,,,,,,,39_2_1,39_6,1,2,1,,,,,,
+413,,,,,,,,39_3,39_8,37,3,,,,,"The tempo of the conversation is moderate, but there are considerable pauses breaking up the moderate pace.",,Moderate between pauses
+414,,,,,,,,39_3_1,39_10,3,3,1,,,,,,
+415,,,,,,,,39_3_2,39_12,6,3,2,,,,,,
+416,,,,,,,,39_4,39_16,13,4,,,,,The tempo of the conversation is even and moderate throughout.,,Even and moderate
+417,,,,,,,,39_4_2,39_20,1,4,2,,,,,,
+418,,,,,,,,39_4_3,39_24,3,4,3,,,,,,
+419,,,,,,,,39_5,39_32,22,5,,,,,"The tempo of the conversation is rapid, but there are considerable pauses breaking up the rapid pace.",,Rapid between pauses
+420,,,,,,,,39_5_3,39_40,5,5,3,,,,,,
+421,,,,,,,,39_6,39_64,25,6,,,,,"The tempo of the conversation is generally hurried, but varies throughout the conversation.",,Hurry w/ variation
+422,,,,,,,,39_6_3,39_72,1,6,3,,,,,,
+423,,,,,,,,39_6_4,39_80,1,6,4,,,,,,
+424,,,,,,,,39_6_5,39_96,2,6,5,,,,,,
+425,,,,,,,,39_7,39_128,5,7,,,,,The tempo of the conversation is steadily hurried throughout.,,Steadily hurry
+426,,,,,,,,39_8,39_256,18,8,,,,,"The tempo of the conversation varies throughout, and there is no predominant tempo as defined in any of the other scale points.",,Varied
+427,,,,,,,,39_8_2,39_260,2,8,2,,,,,,
+428,,,,,,,,39_8_3,39_264,8,8,3,,,,,,
+429,,,,,,,,39_8_4,39_272,2,8,4,,,,,,
+430,,,,,,,,39_8_4_3,39_280,1,8,4,3,,,,,
+431,,,,,,,,39_8_5,39_288,4,8,5,,,,,,
+432,,,,,,,,39_8_5_3,39_296,2,8,5,3,,,,,
+433,,,,,,,,39_8_6,39_320,2,8,6,,,,,,
+434,,,,,,,,39_8_6_2,39_324,1,8,6,2,,,,,
+435,V40,Soft Volume,The frequency of markedly soft speaking volume.,Dynamics,Ordinal,Lomax & Markel (1971-72); Wood (2021),,40_NA,40_NA,0,NA,,,,,Missing data,,Missing data
+436,,,,,,,,40_1,40_2,55,1,,,,,"Soft speaking volume is not heard at all or are heard only in one or two brief, non-noteworthy instances.",,Little/none
+437,,,,,,,,40_2,40_4,33,2,,,,,"Soft speaking volume is infrequent, but noteworthy.",,Occasional
+438,,,,,,,,40_2_1,40_6,12,2,1,,,,,,
+439,,,,,,,,40_3,40_8,14,3,,,,,Soft speaking volume is intermittent and marked.,,"Intermittent, marked"
+440,,,,,,,,40_3_1,40_10,2,3,1,,,,,,
+441,,,,,,,,40_3_2,40_12,4,3,2,,,,,,
+442,,,,,,,,40_4,40_16,13,4,,,,,Speaking volume is consistenly softened.,,Softened
+443,,,,,,,,40_4_1,40_18,4,4,1,,,,,,
+444,,,,,,,,40_4_2,40_20,2,4,2,,,,,,
+445,,,,,,,,40_4_3,40_24,2,4,3,,,,,,
+446,,,,,,,,40_5,40_32,23,5,,,,,Speaking volume is predominantly soft.,,Predominantly soft
+447,,,,,,,,34_5_1,34_34,3,5,1,,,,,,
+448,,,,,,,,34_5_2,34_36,5,5,2,,,,,,
+449,,,,,,,,34_5_3,34_40,5,5,3,,,,,,
+450,,,,,,,,34_5_4,34_48,1,5,4,,,,,,
+451,,,,,,,,40_6,40_64,1,6,,,,,Words are whispered rather than spoken.,,Whispered
+452,,,,,,,,40_6_3,40_72,3,6,3,,,,,,
+453,,,,,,,,40_6_4,40_80,1,6,4,,,,,,
+454,,,,,,,,40_6_5,40_96,2,6,5,,,,,,
+455,,,,,,,,40_6_5_3,40_104,3,6,5,3,,,,,
+456,V41,Loud Volume,The frequency of markedly loud speaking volume.,Dynamics,Ordinal,Lomax & Markel (1971-72); Wood (2021),,41_NA,41_NA,0,NA,,,,,Missing data,,Missing data
+457,,,,,,,,41_1,41_2,45,1,,,,,"Loud speaking volume is not heard at all or are heard only in one or two brief, non-noteworthy instances.",,Little/none
+458,,,,,,,,41_2,41_4,30,2,,,,,"Loud speaking volume is infrequent, but noteworthy.",,Occasional
+459,,,,,,,,41_2_1,41_6,12,2,1,,,,,,
+460,,,,,,,,41_3,41_8,52,3,,,,,Loud speaking volume is intermittent and marked.,,"Intermittent, marked"
+461,,,,,,,,41_3_1,41_10,8,3,1,,,,,,
+462,,,,,,,,41_3_2,41_12,11,3,2,,,,,,
+463,,,,,,,,41_4,41_16,9,4,,,,,Speaking volume is consistenly loudened.,,Loudened
+464,,,,,,,,41_4_1,41_18,3,4,1,,,,,,
+465,,,,,,,,41_4_2,41_20,2,4,2,,,,,,
+466,,,,,,,,41_4_3,41_24,6,4,3,,,,,,
+467,,,,,,,,41_5,41_32,2,5,,,,,Speaking volume is predominantly loud.,,Predominantly loud
+468,,,,,,,,41_5_4,41_48,1,5,4,,,,,,
+469,,,,,,,,41_5_4_3,41_56,1,5,4,3,,,,,
+470,,,,,,,,41_6,41_64,0,6,,,,,Words are shouted rather than spoken.,,Shouting
+471,,,,,,,,41_6_3,41_72,1,6,3,,,,,,
+472,,,,,,,,41_6_5,41_96,4,6,5,,,,,,
+473,,,,,,,,41_6_5_4_3,41_120,1,6,5,4,3,,,,
+474,V42,Pitch Pattern,The degree of patterning in the pitch of the speech.,Pitch,Ordinal,Lomax & Markel (1971-72); Wood (2021),,42_NA,42_NA,3,NA,,,,,Missing data,,Missing data
+475,,,,,,,,42_1,42_2,33,1,,,,,The level of pitch is maintained by the speaker at a rather even level.,,Rather even
+476,,,,,,,,42_2,42_4,31,2,,,,,There are regular patterns of pitch.,,Regular patterns
+477,,,,,,,,42_2_1,42_6,7,2,1,,,,,,
+478,,,,,,,,42_3,42_8,88,3,,,,,Pitch is varied.,,Varied
+479,,,,,,,,42_3_1,42_10,8,3,1,,,,,,
+480,,,,,,,,42_3_2,42_12,6,3,2,,,,,,
+481,,,,,,,,42_3_2_1,42_14,1,3,2,1,,,,,
+482,,,,,,,,42_4,42_16,7,4,,,,,Pitch is markedly varied.,,Marked use of variation
+483,,,,,,,,42_4_2,42_20,2,4,2,,,,,,
+484,,,,,,,,42_4_3,42_24,2,4,3,,,,,,
+485,V43,Pitch Range,The most prominent range of pitch used throughout the speech.,Pitch,Ordinal,Lomax & Markel (1971-72); Wood (2021),,43_NA,43_NA,0,NA,,,,,Missing data,,Missing data
+486,,,,,,,,43_1,43_2,54,1,,,,,"A very narrow range of pitch, approaching a monotone.",,Small
+487,,,,,,,,43_2,43_4,83,2,,,,,"An intermediate range of pitch, with subtle rises and falls in pitch.",,Medium
+488,,,,,,,,43_2_1,43_6,24,2,1,,,,,,
+489,,,,,,,,43_3,43_8,17,3,,,,,"A wide range of pitch, using many high and low notes.",,Wide
+490,,,,,,,,43_3_1,43_10,1,3,1,,,,,,
+491,,,,,,,,43_3_2,43_12,9,3,2,,,,,,
+492,V44,High Notes,The frequency of notes or passages at a markedly higher pitch than the rest of the speech.,Pitch,Categorical,Lomax & Markel (1971-72); Wood (2021),,44_NA,44_NA,0,NA,,,,,Missing data,,Missing data
+493,,,,,,,,44_1,44_2,107,1,,,,,"High notes are not heard at all or are heard only in one or two brief, non-noteworthy instances.",,Little/none
+494,,,,,,,,44_2,44_4,46,2,,,,,"High notes are infrequent, but noteworthy.",,Occasional
+495,,,,,,,,44_2_1,44_6,17,2,1,,,,,,
+496,,,,,,,,44_3,44_8,9,3,,,,,High notes are frequent.,,Frequent
+497,,,,,,,,44_3_2,44_12,2,3,2,,,,,,
+498,,,,,,,,44_4,44_16,0,4,,,,,There are stretches of frequent high notes in a speech with otherwise unremarkable levels of high notes.,,Stretches
+499,,,,,,,,44_4_2,44_20,3,4,2,,,,,,
+500,,,,,,,,44_4_3,44_24,4,4,3,,,,,,
+501,V45,Descending cadence,The absence or presence of phrases in which the pitch becomes progressively lower.,Phrase Ends,Categorical,Lomax & Markel (1971-72); Wood (2021),,45_NA,45_NA,13,NA,,,,,Missing data,,Missing data
+502,,,,,,,,45_1,45_2,143,1,,,,,Descending cadences at the ends of phrases are not marked.,,Absence
+503,,,,,,,,45_2,45_4,19,2,,,,,Descending cadences at the ends of phrases are marked.,,Presence
+504,,,,,,,,45_2_1,45_6,13,2,1,,,,,,
+505,V46,Upglides,The absence or presence of a quick final rise in pitch at the end of a phrase.,Phrase Ends,Categorical,Lomax & Markel (1971-72); Wood (2021),,46_NA,46_NA,13,NA,,,,,Missing data,,Missing data
+506,,,,,,,,46_1,46_2,108,1,,,,,Upglides at the ends of phrases are not marked.,,Absence
+507,,,,,,,,46_2,46_4,41,2,,,,,Upglides at the ends of phrases are marked.,,Presence
+508,,,,,,,,46_2_1,46_6,26,2,1,,,,,,
+509,V47,Prolongations,The absence or presence of prolongations at the end of a phrase.,Phrase Ends,Categorical,Lomax & Markel (1971-72); Wood (2021),,47_NA,47_NA,13,NA,,,,,Missing data,,Missing data
+510,,,,,,,,47_1,47_2,113,1,,,,,Prolongations at the ends of phrases are not marked.,,Absence
+511,,,,,,,,47_2,47_4,49,2,,,,,Prolongations at the ends of phrases are marked.,,Presence
+512,,,,,,,,47_2_1,47_6,13,2,1,,,,,,
+513,V48,Softening,The absence or presence of softened volume at the end of a phrase.,Phrase Ends,Categorical,Lomax & Markel (1971-72); Wood (2021),,48_NA,48_NA,13,NA,,,,,Missing data,,Missing data
+514,,,,,,,,48_1,48_2,92,1,,,,,Softening at the ends of phrases are not marked.,,Absence
+515,,,,,,,,48_2,48_4,61,2,,,,,Softening at the ends of phrases are marked.,,Presence
+516,,,,,,,,48_2_1,48_6,22,2,1,,,,,,
+517,V49,Clipping,The absence or presence of phrases that end so abruptly that they sound as if they were clipped or chopped off.,Phrase Ends,Categorical,Lomax & Markel (1971-72); Wood (2021),,49_NA,49_NA,17,NA,,,,,Missing data,,Missing data
+518,,,,,,,,49_1,49_2,73,1,,,,,Clipped phrase ends are not marked.,,Absence
+519,,,,,,,,49_2,49_4,86,2,,,,,Clipped phrase ends are marked.,,Presence
