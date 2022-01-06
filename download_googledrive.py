@@ -44,7 +44,7 @@ def main():
     # Data sheet
     print("Downloading data into data.csv")
     SPREADSHEET_ID = '15v6tmhVXha1wUiy-6j1ZsNEgj-Dai73U7PJ8NWKuwJk'
-    RANGE_NAME = "'Parlametrics Codings'!A2:BQ189"
+    RANGE_NAME = "'Parlametrics Codings'!A2:BQ"
     HEADER_RANGE = "'Parlametrics Codings'!A1:BQ1"
     data, header = read_google_sheets(SPREADSHEET_ID, RANGE_NAME, HEADER_RANGE)
     data_df = pd.DataFrame(data, columns = header[0])
@@ -56,7 +56,7 @@ def main():
     # Song metadata sheet
     print("Downloading conversation metadata into conversation.csv")
     SPREADSHEET_ID = '1Ojbj-2SfbxTYM_Da-uxdpoR9aZEqwfVt9dWouFeRa80'
-    RANGE_NAME = "'Metadata (in progress)'!A3:BA225"
+    RANGE_NAME = "'Metadata (in progress)'!A3:BA"
     HEADER_RANGE = "'Metadata (in progress)'!A2:BA2"
     data, header = read_google_sheets(SPREADSHEET_ID, RANGE_NAME, HEADER_RANGE)
     songs_df = pd.DataFrame(data, columns = header[0])
@@ -68,7 +68,7 @@ def main():
     # Society metadata sheet
     print("Downloading society metadata into societies.csv")
     SPREADSHEET_ID = '1tb3Nip43e4LaJbglaXzcCTP2CiMyrgwIsU2egk3tfNM'
-    RANGE_NAME = "'All Cultures'!A2:BA1247"
+    RANGE_NAME = "'All Cultures'!A2:BA"
     HEADER_RANGE = "'All Cultures'!A1:BA1"
     data, header = read_google_sheets(SPREADSHEET_ID, RANGE_NAME, HEADER_RANGE)
     society_df = pd.DataFrame(data, columns = header[0])
@@ -81,7 +81,7 @@ def main():
     # Society metadata sheet
     print("Downloading coding information into codings.csv")
     SPREADSHEET_ID = '1As9wN45Gk32lZGPth-FNsgZxvfi1l2Fh4ZFkyY0iu88'
-    RANGE_NAME = "'Sheet1'!A2:S520"
+    RANGE_NAME = "'Sheet1'!A2:S"
     HEADER_RANGE = "'Sheet1'!A1:S1"
     data, header = read_google_sheets(SPREADSHEET_ID, RANGE_NAME, HEADER_RANGE)
     society_df = pd.DataFrame(data, columns = header[0])
